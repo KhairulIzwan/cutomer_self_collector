@@ -23,11 +23,13 @@
 ## SQL CREATE DATABASE Statement
 > **CREATE DATABASE** database_name;
 
-> #### Creating Database in MySQL
+> ### Creating Database in MySQL
 > Step 1: Invoke the MySQL command-line tool
 >> $ mysql -u root -p
+
 > Step 2: Creating a MySQL Database
 >> $ **CREATE DATABASE** demo; **or**
 >> $ **CREATE DATABASE IF NOT EXISTS** demo;
+
 > Step 3: Selecting the Database
 >> $ **USE** demo;
