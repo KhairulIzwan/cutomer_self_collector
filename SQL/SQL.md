@@ -1,4 +1,5 @@
-# SQL Basic
+# SQL Basic 
+https://www.tutorialrepublic.com/
 
 ## SQL
 > standard language designed for managing data in relational database management system
